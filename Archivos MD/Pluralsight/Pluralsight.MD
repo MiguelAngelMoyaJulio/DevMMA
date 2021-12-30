@@ -6,6 +6,7 @@
 1. ### Nombre_de_Ruta
    * ### Nombre_de_Curso ‏‏‎
 ***
+- ### [Querying Data with T-SQL from SQL Server](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Planning%2C%20Tracking%2C%20and%20Releasing%20Software%20with%20Jira.MD)
 - ### [Planning, Tracking, and Releasing Software with Jira](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Planning%2C%20Tracking%2C%20and%20Releasing%20Software%20with%20Jira.MD)
 
 - ### [Increasing Efficiency with Kanban](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Increasing%20Efficiency%20with%20Kanban.MD)

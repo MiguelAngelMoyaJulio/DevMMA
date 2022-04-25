@@ -7,15 +7,21 @@
 
 ***
 ## **Lista de juegos de PC** : 
-
-- ### **Crazy Ball**  
-#### Es un juego parecido al clásico brick breaker, los sound tracks no son de mi autoría, me encargue de todo el juego, scripts, diseño de niveles, UI. Las imágenes del menu, gameover, victoria las hice usando Photoshop. El juego consta de cinco niveles en los cuales deberás destruir todos los bloques y por supuesto evitar que la bola toque el suelo. Posees 8 vidas y un temporizadorm, así que debes apresurarte. [**Descargar juego**](https://mega.nz/file/HCxkHb7A#1aLDEX-RymnptdN2SP9fd5UvwYgM4GEyjSJxSVcWxEM). 
+- ### **Shooter**  
+#### Juego de disparos 2D, con sistema de armas, vidas. Variedad de enemigos e incluye final Boss. [**Descargar juego**](https://www.mediafire.com/file/oqlg0dctds2nejy/GAME_SHOOTER.zip/file).
 
 - ### **Infinite Fire**  
-#### Es un juego shooter 2D, el objetivo es lograr alcanzar los puntos necesarios para pasar al siguiente nivel. Hay 3 misiones en total.El jugador posee 3200 de vida, con eso debera aguantar y cumplir las misiones. La música utilizada es de Alien Shooter 2. [**Descargar juego**](https://mega.nz/file/LP4mkbJL#0ZPQ_Ebx0Hzva3Rxttu8i_SC6F28Bk9sBdcYH62FbwE).
-
-- ### **Caught**  
-#### Es un juego arcade en el que debes encontrar la salida del laberinto. La cantidad de vidas que posees es tres. También cuenta con un temporizador. Así que deberás apresurarte. [**Descargar juego**](https://mega.nz/file/SWpCBBKZ#U4eLlaWj0Pg73AuaQNViRz5cUjMBlmC9bce70AVm3I4).
+#### Es un juego shooter 2D, el objetivo es lograr alcanzar los puntos necesarios para pasar al siguiente nivel. Hay 3 misiones en total.El jugador posee 3200 de vida, con eso debera aguantar y cumplir las misiones. La música utilizada es de Alien Shooter 2. [**Descargar juego**](https://www.mediafire.com/file/vrt38wwl4g797ak/INFINITE_FIRE.zip/file).
 
 - ### **Rush It**  
-#### Se puede atribuir su similitud con los juegos de family por causa de los sprites. Aqui tienes un controlador de vidas y monedas, trampas que van cambiando conforme avanzas de nivel. Si consigues una determianda cantidad de monedas entonces se recibe una vida. En el juego utilicé sound tracks de juegos como Shatterhand, super contra. Es autoría de KONAMI. [**Descargar juego**](https://mega.nz/file/DGxSgZbR#ffUeQLjmERpgknHslNbfrWGySWKBW8HqPLO3aCMr_bw).
+#### Se puede atribuir su similitud con los juegos de family por causa de los sprites. Aqui tienes un controlador de vidas y monedas, trampas que van cambiando conforme avanzas de nivel. Si consigues una determianda cantidad de monedas entonces se recibe una vida. En el juego utilicé sound tracks de juegos como Shatterhand, super contra. [**Descargar juego**](https://www.mediafire.com/file/h98uq2wex9otfjc/RUSH_IT.zip/file).
+
+- ### **Crazy Ball**  
+#### Es un juego parecido al clásico brick breaker, los sound tracks no son de mi autoría, me encargue de todo el juego, scripts, diseño de niveles, UI. Las imágenes del menu, gameover, victoria las hice usando Photoshop. El juego consta de cinco niveles en los cuales deberás destruir todos los bloques y por supuesto evitar que la bola toque el suelo. Posees 8 vidas y un temporizadorm, así que debes apresurarte. [**Descargar juego**](https://www.mediafire.com/file/rydzzzgw6kkbm3m/CRAZY_BALL.zip/file). 
+
+- ### **Caught**  
+#### Es un juego arcade en el que debes encontrar la salida del laberinto. La cantidad de vidas que posees es tres. También cuenta con un temporizador. Así que deberás apresurarte. [**Descargar juego**](https://www.mediafire.com/file/kcjl1tlndfuhoy6/CAUGHT.zip/file).
+
+
+
+

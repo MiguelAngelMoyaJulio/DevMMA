@@ -8,7 +8,7 @@
 ***
 ## **Lista de juegos de PC** : 
 - ### **Shooter**  
-#### Juego de disparos 2D, con sistema de armas, vidas. Variedad de enemigos e incluye final Boss. [**Descargar juego**](https://www.mediafire.com/file/oqlg0dctds2nejy/GAME_SHOOTER.zip/file).
+#### Juego de disparos 2D, con sistema de armas, vidas. Variedad de enemigos e incluye final Boss. [**Descargar juego**](https://www.mediafire.com/file/3pm02szsq3b95vj/GAME_SHOOTER.zip/file).
 
 - ### **Infinite Fire**  
 #### Es un juego shooter 2D, el objetivo es lograr alcanzar los puntos necesarios para pasar al siguiente nivel. Hay 3 misiones en total.El jugador posee 3200 de vida, con eso debera aguantar y cumplir las misiones. La música utilizada es de Alien Shooter 2. [**Descargar juego**](https://www.mediafire.com/file/vrt38wwl4g797ak/INFINITE_FIRE.zip/file).

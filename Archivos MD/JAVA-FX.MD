@@ -1,9 +1,17 @@
-<img src=https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer-thumbnail.png alt="EXCEL VBA" width= 480 height= 400>
+<img src=https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png alt="EXCEL VBA" width= 5000 height= 300>
 
- ### _**Los proyectos contienen macros. Éstas se desarrollan usando el lenguaje de programación VBA.**_
-*** 
-### Los proyectos involucran conceptos de algoritmo y estrutura de datos, programación orientada a objetos y conocimientos sobre excel (workbooks, sheets, range, cells, eventos).
-*** 
-- ## **Enviar correos masivamente por Gmail**  
-#### Esta macro permite que envies un mismo mail a los contactos de gmail que quieras. Tan sólo debes introducir tu correo, contraseña, asunto del mail y mensaje. Listo! [**Descargar Proyecto**](https://mega.nz/file/Pf4VzCgS#0Un0aeO182fU41nKPiR0uyzzlogwuYuEqiE5q6tleOY). 
+### _**Los proyectos involucran conceptos de algoritmos y estrutura de datos, programación orientada a objetos.**_
 
+---
+
+- ## **Sistema de Login**
+
+#### La app registra la información que le introduzcas. Esta información se almacena en un archivo de texto, cada campo posee su propia validación. [**Descargar App**](https://www.mediafire.com/file/mox3z7m3omztsth/SistemaLogin.jar/file).
+
+- ## **Sistema de Login con acceso a Base de Datos**
+
+#### La app registra la información que le introduzcas. Esta información se almacena en una base de datos, cada campo posee su propia validación. El sistema contiene las operaciones esenciales para operar sobre una base de datos (CRUD) [**Descargar App**](https://www.mediafire.com/file/xdjs1nlcxgl975k/SistemaLogin-BBDD.jar/file).
+
+- ## **Sistema de básico de ventas**
+
+#### La app registra la información que le introduzcas. Emula el comportamiento de un carrito de compras. En esta ocasión la tienda es de ropa [**Descargar App**](https://www.mediafire.com/file/yqxw762acytw97c/SaleSystem.jar/file).

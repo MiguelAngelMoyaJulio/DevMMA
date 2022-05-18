@@ -7,4 +7,4 @@
 
 5. ### [Proyectos en Excel](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/ExcelVBA.MD): contiene proyectos desarrollados en el lenguaje VBA (Visual Basic for Applications).
 
-6. ### [Proyectos en JAVA-FX](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/ExcelVBA.MD): JavaFX amplía la potencia de Java permitiendo a los desarrolladores utilizar cualquier biblioteca de Java en aplicaciones JavaFX.
+6. ### [Proyectos en JAVA-FX](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/JAVA-FX.MD): JavaFX amplía la potencia de Java permitiendo a los desarrolladores utilizar cualquier biblioteca de Java en aplicaciones JavaFX.

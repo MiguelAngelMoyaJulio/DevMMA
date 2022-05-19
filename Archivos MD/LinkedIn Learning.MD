@@ -1,4 +1,4 @@
-![LinkedinLearning](https://www.aivancity.ai/sites/default/files/2020-09/linkedinlearning.png)
+![Linkedin-Learning](https://www.aivancity.ai/sites/default/files/2020-09/linkedinlearning.png)
 
 ---
 
@@ -16,7 +16,7 @@
 
 - ### [Learning JDBC](https://www.linkedin.com/learning/certificates/19102d7ada4c2805d90c00e506e521cce9ce931e1aab3d9e1a86659015b75a9a?trk=share_certificate)
 
-- ### [Java: Lambdas and Streams](https://www.linkedin.com/learning/certificatesa1dfd1950ee5a63491245e6026e2559e4357fc9a898e33de687a4a52c79425db?trk=share_certificate)
+- ### [Java: Lambdas and Streams](https://www.linkedin.com/learning/certificates/a1dfd1950ee5a63491245e6026e2559e4357fc9a898e33de687a4a52c79425db?trk=share_certificate)
 
 - ### [Learning Java Collections](https://www.linkedin.com/learning/certificates/e637eea1b1458c3e577f38a8f75104940c51588e25cb9a2212dc4af2ca0d84b9?trk=share_certificate)
 

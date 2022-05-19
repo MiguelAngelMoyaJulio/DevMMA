@@ -1,4 +1,4 @@
-<img src=https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png alt="EXCEL VBA" width= 5000 height= 300>
+<img src=https://anthoncode.com/wp-content/uploads/2019/01/java-logo-png.png alt="EXCEL VBA" width= 5000 height= 450>
 
 ### _**Los proyectos involucran conceptos de algoritmos y estrutura de datos, programación orientada a objetos.**_
 

@@ -20,6 +20,10 @@
 
 #### Juego de preguntas y respuestas. [**Descargar juego**](https://www.mediafire.com/file/8ezcs8909px2rot/Riddle_Master.zip/file).
 
+- ### **Breaker Neon**
+
+#### Juego similar al Crazy Ball con la particularidad de que ahora emplea post-procesado. [**Descargar juego**](https://www.mediafire.com/file/6bpt57rkyo4br6y/BREAKER_NEON.zip/file).
+
 - ### **Infinite Fire**
 
 #### Es un juego shooter 2D, el objetivo es lograr alcanzar los puntos necesarios para pasar al siguiente nivel. Hay 3 misiones en total.El jugador posee 3200 de vida, con eso debera aguantar y cumplir las misiones. La música utilizada es de Alien Shooter 2. [**Descargar juego**](https://www.mediafire.com/file/vrt38wwl4g797ak/INFINITE_FIRE.zip/file).

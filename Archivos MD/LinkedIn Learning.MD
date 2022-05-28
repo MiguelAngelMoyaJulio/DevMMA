@@ -2,6 +2,10 @@
 
 ---
 
+- ### [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/certificates/5a48458dd8ae05aef20bcdfdc382417f51e8efdd56783b8849b32f6576a8e2b1?trk=share_certificate)
+
+- ### [Advanced Java Programming](https://www.linkedin.com/learning/certificates/6a3989c977d99327c7639f05240b34720ce2309b1696e915c4deecdb0e6389fa?trk=share_certificate)
+
 - ### [Learning JavaFX GUI Development](https://www.linkedin.com/learning/certificates/68f396c641fd1828fdc26041c65225e3a01850220c39ef788f73ba9499349285?trk=share_certificate)
 
 - ### [Java: Testing with JUnit](https://www.linkedin.com/learning/certificates/8d735334d656bc21e6e408fa9f4dfd00d23f2aa53bcaa732506e4a7c53a31430?trk=share_certificate)

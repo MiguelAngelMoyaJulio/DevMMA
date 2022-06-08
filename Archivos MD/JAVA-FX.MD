@@ -16,6 +16,10 @@
 
 #### La app registra la información que le introduzcas. Esta información se almacena en una base de datos, cada campo posee su propia validación. El sistema contiene las operaciones esenciales para operar sobre una base de datos (CRUD) [**Descargar App**](https://www.mediafire.com/file/xp5vhum9e8l1qh4/SistemaLogin-BBDD.jar/file).
 
+- ## **Sistema de cifrado**
+
+#### La app posee tres formas de cifrado, el conocido RSA, ASCII y ASCII++. [**Descargar App**](https://www.mediafire.com/file/69cijm2n8avvcxq/RSA.zip/file).
+
 - ## **Sistema de registro**
 
 #### La app registra la información que le introduzcas. Esta información se almacena en un archivo de texto, cada campo posee su propia validación. [**Descargar App**](https://www.mediafire.com/file/mox3z7m3omztsth/SistemaLogin.jar/file).

@@ -8,7 +8,11 @@
 
 #### La app registra la información que le introduzcas. Emula el comportamiento de un carrito de compras. En esta ocasión la tienda es de ropa [**Descargar App**](https://www.mediafire.com/file/b0y3i6tq7att4qb/SaleSystem_BBDD.jar/file).
 
-- ## **Password Generator**
+- ## **Listado de cuentas**
+
+#### El programa te permite cargar los datos (email y contraseña) de todas tus cuentas. Una vez que cargues los datos, podrás consultar, modificar y eliminar información previamente cargada. [**Descargar App**](https://www.mediafire.com/file/oefl3uh1aqm35sp/PASSWORD_LIST.zip/file).
+
+- ## **Generador de contraseñas**
 
 #### Podes generar un password combinando mayúsculas, minúsculas, números y símbolos. [**Descargar App**](https://www.mediafire.com/file/0nnccvpwsy7bn1w/PasswordGenerator.jar/file).
 

@@ -6,13 +6,15 @@
 
 3. ### [Excel VBA](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/ExcelVBA.MD): contiene proyectos desarrollados en el lenguaje VBA (Visual Basic for Applications).
 
-4. ### [Repositorio COBOL](https://github.com/MiguelAngelMoyaJulio/COBOL): contiene ejercicios hechos en el lenguaje que aún no muere!.
+4. ### [Repositorio COBOL](https://github.com/MiguelAngelMoyaJulio/COBOL): contiene ejercicios hechos en el lenguaje que aún no muere!
 
-5. ### [LinkedIn Learning](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/LinkedIn%20Learning.MD): contiene la información sobre los cursos y certificación de los mismos.
+5. ### [Repositorio JAVA](https://github.com/MiguelAngelMoyaJulio/COLECCION-EJERCICIOS-JAVA): contiene ejercicios hechos en el lenguaje más verboso y fuertemente tipado!
 
-6. ### [Pluralsight](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Pluralsight.MD): contiene la información sobre las rutas de aprendizaje,cursos y certificación de los mismos.
+6. ### [LinkedIn Learning](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/LinkedIn%20Learning.MD): contiene la información sobre los cursos y certificación de los mismos.
 
-7. ### [Trabajo_Práctico](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/TrabajoPr%C3%A1ctico.MD): contiene las consignas del trabajo práctico.
+7. ### [Pluralsight](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Pluralsight.MD): contiene la información sobre las rutas de aprendizaje, cursos y certificación de los mismos.
 
-8. ### [Ejercicios](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Ejercicios.MD): contiene las cosignas de los ejercicios.
+8. ### [Trabajo_Práctico](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/TrabajoPr%C3%A1ctico.MD): contiene las consignas del trabajo práctico.
+
+9. ### [Ejercicios](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Ejercicios.MD): contiene las cosignas de los ejercicios.
 

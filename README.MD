@@ -13,8 +13,3 @@
 6. ### [LinkedIn Learning](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/LinkedIn%20Learning.MD): contiene la información sobre los cursos y certificación de los mismos.
 
 7. ### [Pluralsight](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Pluralsight/Pluralsight.MD): contiene la información sobre las rutas de aprendizaje, cursos y certificación de los mismos.
-
-8. ### [Trabajo_Práctico](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/TrabajoPr%C3%A1ctico.MD): contiene las consignas del trabajo práctico.
-
-9. ### [Ejercicios](https://github.com/MiguelAngelMoyaJulio/DevMMA/blob/master/Archivos%20MD/Ejercicios.MD): contiene las cosignas de los ejercicios.
-
